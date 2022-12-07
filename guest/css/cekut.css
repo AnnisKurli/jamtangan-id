@@ -1,0 +1,111 @@
+
+.cekut{
+    /* padding: 10px; */
+    margin: auto;
+    width: 90%;
+    font-size: small;
+    height: 500px;
+    color: black;
+    display: flex;
+    font-family: Poppins-Regular;
+
+}
+.aa {
+    width: 950px;
+    /* background-color: aqua; */
+}
+
+.aa table{
+    margin: 40px 0 81px 81px;
+    width: 180%;
+}
+.aa tr td{
+    padding-bottom: 20px;
+    
+}
+.aa input{
+    height: 50px;
+    border: 0.0001px solid rgb(140, 138, 138);
+    padding: 10px;
+    width: 96.5%;
+    border-radius: 5px;
+
+}
+.satu input{
+    width: 98.5%;
+}
+.dua input{
+    width: 97%;
+}
+.aa textarea{
+    border: solid 0.5px;
+    width: 98.5%;
+    border-radius: 5px;
+    padding: 10px;
+     border: 0.0001px solid rgb(140, 138, 138);
+}
+
+.rdr{
+    margin-left: 330px;
+    padding-top: 2px;
+    width: 100%;
+    font-size: 15px;
+    height: 600px;
+    color: black;
+    overflow: hidden;
+ 
+}
+.rdr h5{
+    color: #000;
+    margin: 5px;
+    margin-bottom: 13px;
+    text-align: center;
+   
+}
+
+.bayar{
+    display: flex;
+    justify-content: center;
+    background-color: rgba(181, 177, 177, 0.333);
+    /* padding: 10px; */
+    /* float: left; */
+    width: 70%; 
+    margin: 88px 0px 50px 100px;
+    height: 440px;
+    border-radius: 6px;
+}
+.rdr .bayar tr td{
+     padding: 0px 21px  0px  20px;
+     border-bottom: 11px;
+   
+}
+
+.bayar table{
+    margin: 20px;
+    /* margin-left: -15px; */
+}
+
+.btn{
+    /* margin-left: 90px; */
+   /* width: 100px; */
+    padding: 10px 20px;
+    outline: none;
+    background-color: #000;
+    letter-spacing: 1px;
+    border-radius: 7px;
+    color: white;
+    margin-top: 2px;
+    cursor: pointer;
+    /* padding-bottom: 10px; */
+}
+.btn[type="submit"]:hover{
+    background:rgb(77, 77, 253)
+}
+.bayar table{
+    width: 100%;
+}
+.line{
+    width: 100%;
+    height: 1px;
+background-color: gray;
+}

@@ -1,0 +1,67 @@
+.halaman{
+    display: flex;
+    padding-right: 50px;
+    font-family: Poppins-Regular;
+}
+.pesanan{
+    padding-left: 100px;
+    padding-top: 50px;
+}
+.pesanan .tebal{
+    font-size: large;
+    padding-bottom: 10px;
+}
+.pesanan .uu{
+    width: 180px;
+    padding-bottom: 11px;
+    font-size: 10pt;
+}
+.pesanan1{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+
+.pesanan1 .der{
+    font-size: large;
+    padding-bottom: 10px;
+}
+.pesanan1 .uu{
+    width: 180px;
+    padding-bottom: 5px;
+    font-size: 10pt;
+}
+.pesanan2{
+    padding-left: 50px;
+    padding-top: 50px;
+}
+.pesanan2 .hai{
+    font-size: large;
+    padding-bottom: 10px;
+}
+.pesanan2 .uu{
+    width: 180px;
+    padding-bottom: 5px;
+    font-size: 9pt;
+}
+.rincian{
+    margin: 52px 100px;
+    background-color: rgba(202, 202, 202, 0.959);
+    padding-left: 35px;
+    height: 90%;
+    padding-top: 34px;
+    font-family: Poppins-Regular;
+    padding-bottom: 11px;
+    border-radius: 10px;
+    color: black;
+}
+.ktak h4{padding-bottom: 30px;
+}
+ .satu{
+    padding: 20px;
+}
+
+
+
+
+
+
